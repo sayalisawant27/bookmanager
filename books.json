@@ -1,0 +1,26 @@
+[
+  {
+    "name": "PHP",
+    "author": "Rasmus Ledorf",
+    "publication": "O Reilly",
+    "imageUrl": "https://www.oreilly.com/library/cover/1565926102/"
+  },
+  {
+    "name": "Java",
+    "author": "James Gosling",
+    "publication": "ABCD",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/618YQosPQTL.jpg"
+  },
+  {
+    "name": "C",
+    "author": "Denis Ritchie",
+    "publication": "ABCD",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/517ck799YSL._SX368_BO1,204,203,200_.jpg"
+  },
+  {
+    "name":"C++",
+    "author": "Bjarne Stroustrup",
+    "publication": "ABCD",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81HCIXim7hL.jpg"
+  }
+]
